@@ -13,7 +13,7 @@
     width: 380px;
     color: #fff;
 }
-div.float#cart{
+#main-header #cart{
     width: 260px;
     height: 40px;
     background: #000;
@@ -23,8 +23,8 @@ div.float#cart{
     text-align: center;
     padding: 5px 10px;
     cursor: pointer;
-    margin-top: 12px;
-    line-height: 0;
+    margin-top: 5px;
+    line-height:40px;
 }
 #nav li{
     width: 190px;
@@ -34,12 +34,14 @@ div.float#cart{
     text-align: center;
     line-height: 40px;
     color: white;
+    margin-top: 17px
 }
-
+a{
+    color:white ;
+}
 
 #login{
     height: 70px;
-    text-align: center;
     line-height: 70px;
 
 }
@@ -60,4 +62,123 @@ div.float#cart{
     display: block;
 }
 
+.wrapper .product{
+    background: url("text/1/bg1.jpg") no-repeat;
+    width: 320px;
+    height: 360px;
+    margin-top: 50px;
 
+}
+.product{
+    float: left;
+    margin-left: 40px;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+.product-name{
+    position: absolute;
+    right: 50px;
+    bottom: 100px;
+
+}
+
+#product{
+    height: 1500px;
+}
+.product-info{
+    width: 347px;
+    height: 440px;
+    border: 1px solid #ccc;
+    float: left;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+.product-info img{
+    width: 248px;
+    height: 260px;
+    border: 1px solid #ccc;
+}
+.product-info .new{
+    background: #fa558f;
+    color: #fff;
+    float: right;
+}
+.product-detail{
+    margin-left: 10px;
+}
+.product-detail h3{
+    margin-top: 10px;
+}
+.add{
+    width:130px;
+    height: 40px;
+    background: orange;
+    color: #fff;
+    border: 0;
+    margin-top: 5px;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.product-detail input{
+    width: 150px;
+    height: 30px;
+    text-indent: 10px;
+    outline: none;
+}
+
+
+
+
+
+
+
+
+
+#problem{
+    height: 400px;
+    background: url(text/1/banner2.jpg) no-repeat center;
+}
+
+#problem .wrapper{
+    width: 1500px;
+
+}
+.problem-menu{
+    padding-left: 130px;
+    float: left;
+    margin-right:2px;
+    margin-top: 100px;
+}
+.problem-menu li{
+    list-style: disc;
+    color: #fff;
+    margin-top: 20px;
+}
+.problem-menu li a{
+    color: #fff;
+}
+.problem-menu li a:hover{
+    text-decoration: underline;
+}
+.menu-bold{
+    font-weight: bolder;
+}
+
+
+
+
+#footer{
+    height: 82px;
+    background: #fa558f;
+    line-height: 82px;
+}
+#footer h3, #footer h4{
+    color: #fff;
+}
+#footer h3{
+    float: left;
+}
+#footer h4{
+    float: right;
+}

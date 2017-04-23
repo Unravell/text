@@ -1,0 +1,75 @@
+
+#header{
+    background: url(text/1/banner.jpg) no-repeat center;
+    height: 400px;
+}
+.wrapper{
+    width: 1140px;
+    height: 100%;
+    margin: 0 auto;
+}
+#login .float
+{
+    float: left;
+    width: 380px;
+    color: #fff;
+}
+#main-header #cart{
+    width: 260px;
+    height: 40px;
+    background: #000;
+    opacity: .5;
+    filter: alpha(opacity=50);
+    color: #fff;
+    text-align: center;
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-top: 5px;
+    line-height:40px;
+}
+#nav li{
+    width: 190px;
+    height: 40px;
+    background: #fa558f;
+    float: left;
+    text-align: center;
+    line-height: 40px;
+    color: white;
+    margin-top: 30px
+}
+a{
+    color:white ;
+}
+
+
+
+
+/* 第二部分开始*/
+
+.picture img{
+    height: 200px;
+    width: 200px;
+
+}
+.out{
+    margin-top: 40px;
+}
+.out .picture{
+    margin-left: 20px;
+    padding-top: 20px;
+    display: block;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
