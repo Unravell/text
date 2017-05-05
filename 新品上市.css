@@ -25,3 +25,40 @@
 .new-product div{
     float: left;
 }
+.price{
+    font-size: 30px;
+    color: #fa558f;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+#picture1 input[type="number"]{
+    width: 50px;
+    height: 30px;
+    border: 1px solid #8c8c8c;
+    border-radius: 4px;
+    margin-left: 10px;
+
+}
+#picture1 .add{
+    font-size: 15px;
+    cursor: pointer;
+}
+#picture1 .add:hover{
+    color: #cccccc;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
