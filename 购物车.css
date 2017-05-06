@@ -1,0 +1,110 @@
+.wrapper h2{
+    margin-top: 50px;
+    margin-bottom: 30px;
+
+}
+#left{
+    height: 504px;
+    width: 805px;
+
+}
+#left .picture1{
+    height: 134px;
+    width: 134px;
+}
+.float{
+    float: left;
+    margin-bottom: 100px;
+
+}
+#right{
+    height: 504px;
+    width: 250px;
+
+}
+.price{
+    margin-top: 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid black;
+    width: 550px;
+
+
+}
+#left input[type="number"]{
+    width: 82px;
+    height: 34px;
+    text-indent: 10px;
+    border-radius: 5px;
+    border: 1px solid #999;
+    margin-left: 5px;
+
+}
+.price span{
+    margin-right: 50px;
+    font-size: 20px;
+}
+span[class="no"]{
+   float: right;
+}
+.arrive{
+    margin-top: 10px;
+
+}
+#right{
+    border-left: 1px solid black;
+    padding-left: 50px;
+
+}
+.shopping{
+    width: 140px;
+    height: 40px;
+    color: #fff;
+    border: 0;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-left: 70px;
+    margin-top: 30px;
+    cursor: pointer;
+    margin-bottom: 60px;
+
+}
+#right button[class=" goon shopping"]{
+    background: orangered;
+}
+#right button[class=" goon shopping"]:hover{
+    background: black;
+}
+#right button[class="go shopping"]{
+    background: black;
+}
+#right button[class="go shopping"]:hover{
+    background: orangered;
+}
+
+#add{
+    margin-top: 20px;
+
+}
+#add div{
+    width: 200px;
+    border-bottom: 1px solid black;
+
+}
+#add div span{
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
