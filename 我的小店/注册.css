@@ -1,0 +1,54 @@
+#tired{
+    margin-top: 50px;
+    margin-bottom: 30px;
+
+}
+#form{
+    margin-top: 40px;
+
+}
+#form span{
+    display: inline-block;
+    width: 120px;
+    margin-bottom: 30px;
+    font-size: 20px;
+}
+#form input{
+    width: 330px;
+    height: 35px;
+}
+.wrapper div[class="num float"]{
+    width: 500px;
+    height: 700px;
+
+}
+.float{
+    float: left;
+}
+#pro{
+    margin-top: 100px;
+
+}
+#pro h3{
+    color: orangered;
+}
+#pro p{
+    font-size: 20px;
+    color: #999999;
+}
+#form input[type="submit"]{
+    background: orangered;
+    color: #dddddd;
+    width: 400px;
+    height: 45px;
+    border-radius: 15px;
+    border: none;
+    margin-left: 20px;
+}
+
+
+
+
+
+
+
